@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Paragraph with Link</title>
+</head>
+
+<body>
+
+    <p>
+        Thank you for visiting my project. You can check out my previous work by visiting my
+        <a href="https://github.com/sameertiwari08/Assignment_2-Learn-HTML" target="_blank">GitHub Repository</a>.
+        Feel free to explore the files!
+    </p>
+
+</body>
+
+</html>
